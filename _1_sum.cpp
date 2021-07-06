@@ -5,5 +5,6 @@ int main()
     int a = 5;
     int b = 7;
     cout<<"Sum is: "<<(a+b)<<endl;
+    cout<<"Dif is: "<<(a-b)<<endl;
     return 0;
 }
